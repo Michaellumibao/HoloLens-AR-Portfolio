@@ -1,8 +1,7 @@
 # HoloLens-AR-Portfolio
 
 ### **Summary** 
-The HoloLens project was a project done to visualize our research and relevant data in downtown Ottawa. The project had 3 main goals that were achieved.
-
+The HoloLens project was a project done to visualize our research and relevant data in downtown Ottawa.
 
 _Visualizing mm-wave propogation through an urban environment._
 ![ar-1](https://user-images.githubusercontent.com/31720028/51768012-0366a380-20ad-11e9-9431-5147e77b0923.jpg)
